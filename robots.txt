@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usetheabu.github.io/sitemap.html.gz
+Sitemap: https://usetheabu.github.io/app/sitemap.html.gz
+Sitemap: https://usetheabu.github.io/assets/sitemap.html.gz
+Sitemap: https://usetheabu.github.io/css/sitemap.html.gz
+Sitemap: https://usetheabu.github.io/includes/sitemap.html.gz
+Sitemap: https://usetheabu.github.io/item/sitemap.html.gz
+Sitemap: https://usetheabu.github.io/src/sitemap.html.gz
